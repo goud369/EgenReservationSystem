@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/html/VsApp/app/views/confirmation.html</file>
+            <file>file:/var/www/html/VsApp/app/services/ownerService.js</file>
+            <file>file:/var/www/html/VsApp/app/services/cancelService.js</file>
+            <file>file:/var/www/html/VsApp/app/controllers/profileController.js</file>
+            <file>file:/var/www/html/VsApp/app/views/cancelReservation.html</file>
+            <file>file:/var/www/html/VsApp/app/app.css</file>
+            <file>file:/var/www/html/VsApp/app/controllers/LoginController.js</file>
+            <file>file:/var/www/html/VsApp/app/services/AuthenticationService.js</file>
+            <file>file:/var/www/html/VsApp/app/controllers/ReservationDetailController.js</file>
+            <file>file:/var/www/html/VsApp/app/services/reservationService.js</file>
+            <file>file:/var/www/html/VsApp/app/app.js</file>
+            <file>file:/var/www/html/VsApp/app/services/loginService.js</file>
+            <file>file:/var/www/html/VsApp/app/views/OwnersDashBoard/profile.html</file>
+            <file>file:/var/www/html/VsApp/app/controllers/CancellationController.js</file>
+            <file>file:/var/www/html/VsApp/app/controllers/ReservationController.js</file>
+            <file>file:/var/www/html/VsApp/app/views/OwnersDashBoard/ownersHomePage.html</file>
+            <file>file:/var/www/html/VsApp/app/index.html</file>
+            <file>file:/var/www/html/VsApp/app/views/home/home.html</file>
+            <file>file:/var/www/html/VsApp/app/views/login.html</file>
+            <file>file:/var/www/html/VsApp/app/controllers/OwnerController.js</file>
+            <file>file:/var/www/html/VsApp/app/services/profileService.js</file>
+            <file>file:/var/www/html/VsApp/app/index-async.html</file>
+            <file>file:/var/www/html/VsApp/app/controllers/ConfirmationController.js</file>
+        </group>
+    </open-files>
+</project-private>
