@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<div>
+<h1 class="text-center text-capitalize">Reservation Table at V.S.Restaurant</h1>
+<hr/>
+<h2>Hello {{resv.customer.name}}</h2>
+<p>Please find the reservation details</p>
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h2>Confirmation Details</h2>
+        <div class="panel-body">
+            <p> Status: <strong>{{resv.reservation_Status}}</strong></p>
+            <p> Confirmation Number: <strong>{{resv.reservation_id}}</strong></p>
+            <p> Table Reserved on Date: <strong>{{resv.reservation_Date}}</strong></p>
+            <p> Reservation Time: <strong>{{resv.reservation_Time}}</strong></p>
+            <p> Number Of Guests: <strong>{{resv.numberOfGuests}}</strong></p>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h2>Table Details</h2>
+                <div class="panel-body">
+                    <p> Table Number: <strong>{{resv.table.table_id}}</strong></p>
+                    <p> Table Capacity:<strong>{{resv.table.table_Capacity}}</strong></p>
+                    <p> Table info:<strong>{{resv.table.table_info}}</strong></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h2>Contact Details</h2>
+                <div class="panel-body">
+                    <p>Contact Name: <strong>{{resv.customer.name}}</strong></p>
+                    <p> Contact Number: <strong>{{resv.customer.phone}}</strong></p>
+                    <p> Email id: <strong>{{resv.customer.email}}</strong></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<p class="text-center">Conditions Apply</p>
+<p class="text-center">Contact us at 9155453544 and also email at support@vs.com</p>
+
+</div>
